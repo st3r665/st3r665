@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am St3r and I am a second grade college student from China! 
 
-<img align="right" alt="img" src="https://github.com/st3r665/st3r665/github.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://47.101.147.182/homepage.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
